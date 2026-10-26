@@ -1,0 +1,4 @@
+flask
+tradingview-screener
+pandas
+gunicorn
